@@ -1,6 +1,6 @@
 # Fcitx5Themes
 
-使用 [ssfconv](https://github.com/fkxxyz/ssfconv) 工具转换得到的几款 Fcitx5 主题。
+使用 [ssfconv](https://github.com/fkxxyz/ssfconv) 工具从[搜狗皮肤](https://pinyin.sogou.com/skins/)转换得到的几款 Fcitx5 主题。
 
 ### 【十月】诗与远方
 ![【十月】诗与远方](.img/【十月】诗与远方.png)
